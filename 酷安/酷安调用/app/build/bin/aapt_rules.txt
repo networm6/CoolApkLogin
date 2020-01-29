@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:38
+-keep class com.coolapk.developer.CKLA { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.coolapk.developer.MainActivity { <init>(...); }
+

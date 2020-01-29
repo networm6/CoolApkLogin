@@ -1,0 +1,18 @@
+# view AndroidManifest.xml #generated:44
+-keep class com.coolapk.UserListener.CKLA { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.coolapk.UserListener.MainActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:33
+-keepclassmembers class * { *** co(...); }
+
+# onClick res/layout/main.xml #generated:27
+-keepclassmembers class * { *** isk(...); }
+
+# onClick res/layout/main.xml #generated:21
+-keepclassmembers class * { *** log(...); }
+
+# onClick res/layout/main.xml #generated:9
+-keepclassmembers class * { *** oo(...); }
+
